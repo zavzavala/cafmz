@@ -25,15 +25,16 @@
   }
   
   header .navigation .logo img{
-    margin-left: 20px;
-    width:200px;
-    height:40px;
+    margin-left: 10%;
+    width:150%;
+    height:150%;
   }
   
   header .navigation .logo2 img{
-   
-    width:200px;
-    height:40px;
+   margin-left: 50%;
+    width:20%;
+    height:40%;
+
   }
   
   header .navigation .dropdown {
@@ -129,7 +130,6 @@
   /* Large Mobile :480px. */
   
 
-  
     header .navigation .dropdown li {
       display: block;
     }
@@ -148,7 +148,7 @@
     }
  
   
-  }
+  
   
   
   /* small mobile :320px. */
